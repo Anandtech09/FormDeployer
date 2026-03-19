@@ -1,4 +1,3 @@
-````markdown
 # Google Form Deployer
 
 ![FormDeployer](pic.png)
@@ -41,7 +40,6 @@ FormDeployer/
     ├── Designs form structure and flow
     ├── Provisions the Google Form via API
     └── Outputs live URLs and confirmation
-````
 
 -----
 
